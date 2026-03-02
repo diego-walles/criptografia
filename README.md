@@ -1,2 +1,2 @@
 # criptografia
-Lear cryptography in Andes University - COL
+Learn cryptography in Andes University - COL
