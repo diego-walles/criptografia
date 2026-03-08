@@ -1,6 +1,9 @@
 # criptografia
 Learn cryptography in Andes University - COL
 
+# Example
+<img width="921" height="553" alt="image" src="https://github.com/user-attachments/assets/6c6c1719-8185-4210-9d15-5b005aca5c89" />
+
 # MIDI Steganography - Cryptography Workshop
 Este proyecto oculta información dentro de un archivo MIDI mediante Python y la biblioteca Mido.
 
